@@ -1,0 +1,47 @@
+.footer{
+    position: fixed;
+    width: 100%;
+        bottom: 0;
+        text-align: center;
+        background-color: chartreuse;
+        line-height: 3;
+        font-size: 25px;
+        box-shadow: 10px 10px 50px greenyellow;
+    }
+    body{
+        background-image: url(backk.png);
+        background-size: cover;
+        background-position: center;
+        font-family: 'Mont-Heavy';
+        
+    }
+    h1{
+        background-color: aliceblue;
+        width: 40%;
+        border-radius: 30px;
+        box-shadow: 5px 5px 20px rgb(255, 255, 255);
+    }
+    .button_group button{
+        padding: 12px;
+        cursor: pointer;
+        width: 30%;
+        margin-top: 40px;
+        border-radius: 20px;
+        background-color: aqua;
+        box-shadow: 5px 5px 20px rgb(0, 200, 255);
+        color: aliceblue;
+
+    }
+    .button_group button:hover{
+        background-color: blue;
+    }
+
+
+    @font-face {
+        font-family: 'Mont-Heavy';
+        src: url(Mont-HeavyDEMO.otf);
+    }
+    #op{
+        color: azure;
+        padding-top: 100px;
+    }

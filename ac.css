@@ -1,0 +1,17 @@
+img{
+    width: 640px;
+    height: 480px;
+    padding-top: 100px;
+}
+.back{
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-color: red;
+    color: aliceblue;
+    float: right;
+}
+h4{
+    font-size: 30px;
+    color: aliceblue;
+}
